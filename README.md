@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B9R9-s&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=B9R9-s&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=baptiste-s&show_icons=true&theme=radical&count_private=true)
 <!--
 **B9R9/B9R9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
