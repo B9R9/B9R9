@@ -1,6 +1,6 @@
 
 
-<! -- [Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpeg) -->
+<!-- [Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpeg) -->
 
 ### Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
