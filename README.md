@@ -1,6 +1,9 @@
-### Hi there 👋
+
 
 ![Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpeg)
+
+### Hi there 👋
+My name is Baptiste.I 'm a student in the 42 Network. And this page is progress! 
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=briffard)](https://github.com/mohouyizme/1337-readme)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B9R9&theme=radical&hide_langs_below=8)
