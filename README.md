@@ -2,7 +2,10 @@
 
 ![Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpeg)
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" />
+</a>
 My name is Baptiste.I 'm a student in the 42 Network. And this page is progress! 
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=briffard)](https://github.com/mohouyizme/1337-readme)
