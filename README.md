@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpg)
+![Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpeg)
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=briffard)](https://github.com/mohouyizme/1337-readme)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B9R9&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=B9R9&show_icons=true&theme=radical&count_private=true)
