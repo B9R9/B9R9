@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=briffard)](https://github.com/mohouyizme/1337-readme)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=briffard-s&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=briiffard-s&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=briffard&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=briffard&show_icons=true&theme=radical&count_private=true)
 <!--
 **B9R9/B9R9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
