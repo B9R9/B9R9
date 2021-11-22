@@ -4,7 +4,7 @@
 
 ### Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" />
+  <img align="left" alt="My Discord" width="22px" />
 </a>
 My name is Baptiste.I 'm a student in the 42 Network. And this page is progress! 
 
