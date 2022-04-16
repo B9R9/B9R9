@@ -5,7 +5,45 @@
 ### Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- Message daccueil et de presentation.--> 
-My name is Baptiste.I 'm a student in the 42 Network. And this page is in progress! 
+I am Baptiste. I 'm a student in Hive. Since a year, I have started learning code and particularly C.
+
+Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proactif | Positive | Team player | Learning mindset
+
+### What is Hive ?
+  [Hive](www.hive.fi/en/about-hive/) is a new kind of coding school in Helsinki sponsored by Supercell, based on the revolutionary education model of the French school [Ecole 42](https://42.fr/).
+
+###                                                                                                   Profile
+ I'm a social and driven professional making a career change from tourism team management to software development, I have been studying full-time in HIVE Helsinki since 2021 and prior to that I have been self-studying and taking courses on several coding languages out of personal interest and passion for 2 years. I'm an absolute team player and work very well in peer-to-peer environments as with independent projects and tickets.
+ 
+### Languages & tools
+<div style="display: inline_block"><br>
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
+  <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  </div>
+
+### Working at the moment on
+  - [Ftprintf](https://github.com/B9R9/42-Hive-ft_printf): Rebuilt your own version of the function printf
+  - 
+### My 42 projects
+  - [Baseccamp](https://github.com/B9R9/42-Hive-Basecamp): My basecamp experience
+  - [Libft](https://github.com/B9R9/42-Hive-Libft): A complete and continuously updated user-made C library, with extensions beyond the standard library
+  - [Fillit](https://github.com/B9R9/42-Hive-Fillit): Searching the optimal fit of Tetriminos in the smallest square possible, in a time efficient manner
+  - [Init](https://github.com/B9R9/42-Hive-Init): From the Networking branch, An introduction of network and system administration
+  - [Arena](https://github.com/B9R9/42-Hive-Arena): A IA for a small game 
+
+### My personal projects
+  - [Ceasar Method](https://github.com/B9R9/42-Hive-cypher): A program that encrypts and decrypts a message following the ceasar method
+  - [Useful Script](https://github.com/B9R9/42-Hive-script): Scripts who make my life a better place.
+  - [Guess my Number](https://github.com/B9R9/Guest-My-Number): A small C game.
+  
+
+
 
 <!--        My 42 profile card                                                                         What i am doing at the moment 
                                                                                                        Wich language i am learning 
