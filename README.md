@@ -7,13 +7,13 @@
 <!-- Message daccueil et de presentation.--> 
 I am Baptiste. I 'm a student in Hive. Since a year, I have started learning code and particularly C.
 
-Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proactif | Positive | Team player | Learning mindset
-
 ### What is Hive ?
   [Hive](www.hive.fi/en/about-hive/) is a new kind of coding school in Helsinki sponsored by Supercell, based on the revolutionary education model of the French school [Ecole 42](https://42.fr/).
 
 ###                                                                                                   Profile
  I'm a social and driven professional making a career change from tourism team management to software development, I have been studying full-time in HIVE Helsinki since 2021 and prior to that I have been self-studying and taking courses on several coding languages out of personal interest and passion for 2 years. I'm an absolute team player and work very well in peer-to-peer environments as with independent projects and tickets.
+ 
+Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proactif | Positive | Team player | Learning mindset
  
 ### Languages & tools
 <div style="display: inline_block"><br>
