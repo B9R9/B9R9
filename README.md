@@ -29,7 +29,7 @@ Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proac
 
 ### Working at the moment on
   - [Ftprintf](https://github.com/B9R9/42-Hive-ft_printf): Rebuilt your own version of the function printf
-  - 
+
 ### My 42 projects
   - [Baseccamp](https://github.com/B9R9/42-Hive-Basecamp): My basecamp experience
   - [Libft](https://github.com/B9R9/42-Hive-Libft): A complete and continuously updated user-made C library, with extensions beyond the standard library
