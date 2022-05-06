@@ -29,6 +29,8 @@ Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proac
 
 ### Working at the moment on
   - [Ftprintf](https://github.com/B9R9/42-Hive-ft_printf): Rebuilt your own version of the function printf
+  - [Roger-Skyile-1](https://github.com/B9R9/42-Hive-Roger-Skyline-1): Roger-skyline-1 let you install a Virtual Machine, discover the basics about system and network administration as well as a lots of services used on a server machine.
+
 
 ### My 42 projects
   - [Baseccamp](https://github.com/B9R9/42-Hive-Basecamp): My basecamp experience
