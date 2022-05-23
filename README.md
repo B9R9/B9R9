@@ -28,7 +28,6 @@ Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proac
   </div>
 
 ### Working at the moment on
-  - [Ftprintf](https://github.com/B9R9/42-Hive-ft_printf): Rebuilt your own version of the function printf
   - [Roger-Skyile-1](https://github.com/B9R9/42-Hive-Roger-Skyline-1): Roger-skyline-1 let you install a Virtual Machine, discover the basics about system and network administration as well as a lots of services used on a server machine.
 
 
@@ -38,6 +37,7 @@ Coding in C | Peer-to-peer coding | Problem-solving mindset | Efficiancy | Proac
   - [Fillit](https://github.com/B9R9/42-Hive-Fillit): Searching the optimal fit of Tetriminos in the smallest square possible, in a time efficient manner
   - [Init](https://github.com/B9R9/42-Hive-Init): From the Networking branch, An introduction of network and system administration
   - [Arena](https://github.com/B9R9/42-Hive-Arena): A IA for a small game 
+  - [Ftprintf](https://github.com/B9R9/42-Hive-ft_printf): Rebuilt your own version of the function printf
 
 ### My personal projects
   - [Ceasar Method](https://github.com/B9R9/42-Hive-cypher): A program that encrypts and decrypts a message following the ceasar method
