@@ -10,7 +10,7 @@ Super social junior coder with life experience and real passion for coding, eage
 
 ***  
 ### Tech & Tools
-C | C++ | Python | SQL |SDL2| Linux | Bash | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
+C | C++ | Python | SQL | SDL2 | Linux | Bash | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
 ***  
 
 ### Working at the moment on
