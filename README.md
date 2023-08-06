@@ -10,11 +10,11 @@ Super social junior coder with life experience and real passion for coding, eage
 
 ***  
 ### Tech & Tools
-C | C++ | Python | SQL | Linux | Bash | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
+C | C++ | Python | SQL |SDL2| Linux | Bash | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
 ***  
 
 ### Working at the moment on
-  - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game !!! Inspired by Vampire Survivor, You will try to survive in
+  - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game using C and SDL 2 !!! Inspired by Vampire Survivor, You will try to survive in
  a dangerous space.
   - C#: Upskilling
   - SQL: Upskilling
