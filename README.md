@@ -15,8 +15,8 @@ C | C++ | Python | SQL | SDL2 | Linux | Bash | GitHub | Agile, Kanban | Peer-to-
 
 ### Working at the moment on
   - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game using C and SDL 2 !!! Inspired by Vampire Survivor, You will try to survive in a dangerous space.
-  - [C#](https://github.com/B9R9/sandox-csharp): Learning the basics via [Codecademy](https://www.codecademy.com/courses/learn-c-sharp/lessons/csharp-method-calls-and-input/exercises/introduction-to-methods)
-  - [SQL](https://github.com/B9R9/sandox-SQL): Learning the basics of SQL trough [Codecademy](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql) and [Formation Video](https://www.youtube.com/@formation-video)
+  - [C#](https://github.com/B9R9/sandox-csharp/blob/main/README.md): Learning the basics via [Codecademy](https://www.codecademy.com/courses/learn-c-sharp/lessons/csharp-method-calls-and-input/exercises/introduction-to-methods)
+  - [SQL](https://github.com/B9R9/sandox-SQL/README.md): Learning the basics of SQL trough [Codecademy](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql) and [Formation Video](https://www.youtube.com/@formation-video)
 ***
 
 ### Interested in:
