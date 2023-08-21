@@ -17,7 +17,7 @@ C | C++ | Python | SQL | SDL2 | Linux | Bash | GitHub | Agile, Kanban | Peer-to-
   - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game using C and SDL 2 !!! Inspired by Vampire Survivor, You will try to survive in
  a dangerous space.
   - C#: Upskilling
-  - SQL: Upskilling
+  - [SQL](https://github.com/B9R9/sandox-SQL): Learning the basic of SQL trough [Codecademy](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql) and [Formation Video](https://www.youtube.com/@formation-video)
 ***
 
 ### Interested in:
