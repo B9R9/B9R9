@@ -6,7 +6,7 @@
 
 <!-- Message daccueil et de presentation.--> 
 I am Baptiste.  
-Super social junior coder with life experience and real passion for coding, eager to show what I can do. I have been studying full-time in HIVE Helsinki since 2021([all my projects](https://github.com/B9R9/42-HIVE/blob/main/README.md)) and via Codecademy since summer 2023 to continue upskilling and getting certifications (see my[LinkedIn](https://www.linkedin.com/in/baptiste-riffard-233b17103/?locale=en_US)). Dad jokes and French cooking!
+Super social junior coder with life experience and real passion for coding, eager to show what I can do. I have been studying full-time in HIVE Helsinki since 2021([all my projects](https://github.com/B9R9/42-HIVE/blob/main/README.md)) and via Codecademy since summer 2023 to continue upskilling and getting certifications (see my [LinkedIn](https://www.linkedin.com/in/baptiste-riffard-233b17103/?locale=en_US)). Dad jokes and French cooking!
 
 ***  
 ### Tech & Tools
