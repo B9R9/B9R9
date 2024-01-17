@@ -15,8 +15,7 @@ Super social junior coder with life experience and real passion for coding, eage
 
 ### Working at the moment on
   - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game using C and SDL 2 !!! Inspired by Vampire Survivor, You will try to survive in a dangerous space.
-  - [SQL](https://github.com/B9R9/sandox-SQL/blob/main/README.md): Learning the basics of SQL trough [Codecademy](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/exercises/sql) and [Formation Video](https://www.youtube.com/@formation-video)
-  - Unity: 
+  - [Discord Bot](https://github.com/B9R9/DiscordBot): A Discord bot to assist and support students from my school in their studies.
 ***
 
 ### Interested in:
