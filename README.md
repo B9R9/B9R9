@@ -15,7 +15,7 @@ Super social junior coder with life experience and real passion for coding, eage
 
 ### Working at the moment on
   - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game using C and SDL 2 !!! Inspired by Vampire Survivor, You will try to survive in a dangerous space.
-  - [Discord Bot](https://github.com/B9R9/DiscordBot): A Discord bot to assist and support students from my school in their studies.
+  - [Discord Bot](https://github.com/B9R9/DiscordBot-C-): A Discord bot to assist and support students from my school in their studies.
 ***
 
 ### Interested in:
