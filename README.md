@@ -14,7 +14,7 @@ Super social junior coder with life experience and real passion for coding, eage
 ***  
 
 ### Working at the moment on
-  - [Space Survivor](https://github.com/B9R9/Space_Survivor): My own first game using C and SDL 2 !!! Inspired by Vampire Survivor, You will try to survive in a dangerous space.
+  - [FullStack Open course](https://github.com/B9R9/fullStackOpen): Learning React, Redux, Node.js, MongoDB, GraphQL and TypeScript. This course introduces you to modern JavaScript-based web development. The main focus is on building single-page applications with ReactJS that use REST APIs built with Node.js
   - [Discord Bot](https://github.com/B9R9/DiscordBot-C-): A Discord bot to assist and support students from my school in their studies.
 ***
 
