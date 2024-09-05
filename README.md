@@ -10,7 +10,7 @@ Super social junior coder with life experience and real passion for coding, eage
 
 ***  
 ### Tech & Tools
-[C](https://github.com/B9R9/42-HIVE/blob/main/README.md) | [C#](https://github.com/B9R9/sandox-csharp/blob/main/README.md) | [C++](https://github.com/B9R9/sandbox-cplus/blob/main/README.md) | [Python](https://github.com/B9R9/sandbox-Python3/blob/main/ReadME.md) | [SQL](https://github.com/B9R9/sandox-SQL/blob/main/README.md) | Flutter | Node.js | SDL2 | Linux | Bash | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
+[C](https://github.com/B9R9/42-HIVE/blob/main/README.md) | [C#](https://github.com/B9R9/sandox-csharp/blob/main/README.md) | [C++](https://github.com/B9R9/sandbox-cplus/blob/main/README.md) | [Python](https://github.com/B9R9/sandbox-Python3/blob/main/ReadME.md) | [SQL](https://github.com/B9R9/sandox-SQL/blob/main/README.md) | Docker | Go | Flutter | Node.js | SDL2 | Linux | Bash | Postgres | Redis |GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
 ***  
 
 ### Working at the moment on
@@ -19,7 +19,7 @@ Super social junior coder with life experience and real passion for coding, eage
 ***
 
 ### Interested in:
-Robot Framework, Java, React, Go, Cloud, TypeScript
+Robot Framework, Java, React, Cloud, TypeScript
 
 
   
