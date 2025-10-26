@@ -11,11 +11,6 @@ Super social junior coder with life experience and real passion for coding, eage
 ***  
 ### Tech & Tools
 [C](https://github.com/B9R9/42-HIVE/blob/main/README.md) | [C#](https://github.com/B9R9/sandox-csharp/blob/main/README.md) | [C++](https://github.com/B9R9/sandbox-cplus/blob/main/README.md) | [Python](https://github.com/B9R9/sandbox-Python3/blob/main/ReadME.md) | [SQL](https://github.com/B9R9/sandox-SQL/blob/main/README.md) | TypeScript | Docker | Go | Deno | Flutter | Vue.js | Node.js | SDL2 | Linux | Bash | Postgres | Redis | Neon | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
-***  
-
-### Working at the moment on
-  - [FullStack Open course](https://github.com/B9R9/fullStackOpen): Learning React, Redux, Node.js, MongoDB, GraphQL and TypeScript. This course introduces you to modern JavaScript-based web development. The main focus is on building single-page applications with ReactJS that use REST APIs built with Node.js
-  - [Discord Bot](https://github.com/B9R9/DiscordBot-C-): A Discord bot to assist and support students from my school in their studies.
 ***
 
 ### Interested in:
