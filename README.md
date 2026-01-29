@@ -1,53 +1,94 @@
+### Hi there 👋
 
+I’m **Baptiste**, a software developer based in Helsinki 🇫🇮  
+I enjoy **building today what will be useful tomorrow** — pragmatic software, grounded in real needs and long-term thinking.
 
-<!-- [Cover](https://github.com/B9R9/B9R9/blob/master/img/test.jpeg) -->
+I’ve been studying full-time at **HIVE Helsinki** (42 network) since 2021,  
+and I continuously grow through **hands-on projects, peer learning, experimentation**, and **Codecademy**.  
+For me, learning doesn’t come from one source — it comes from **doing, failing, reflecting, and iterating**.
 
-### Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I bring strong technical foundations, real-life experience, and a genuine interest in clean architecture, UX, and ethical software design.
 
-<!-- Message daccueil et de presentation.--> 
-I am Baptiste.  
-Super social junior coder with life experience and real passion for coding, eager to show what I can do. I have been studying full-time in HIVE Helsinki since 2021([all my projects](https://github.com/B9R9/42-HIVE/blob/main/README.md)) and via Codecademy since summer 2023 to continue upskilling and getting certifications (see my [LinkedIn](https://www.linkedin.com/in/baptiste-riffard-233b17103/?locale=en_US)). Dad jokes and French cooking!
+Dad jokes, French cooking, and thoughtful product discussions included.
 
-***  
-### Tech & Tools
-[C](https://github.com/B9R9/42-HIVE/blob/main/README.md) | [C#](https://github.com/B9R9/sandox-csharp/blob/main/README.md) | [C++](https://github.com/B9R9/sandbox-cplus/blob/main/README.md) | [Python](https://github.com/B9R9/sandbox-Python3/blob/main/ReadME.md) | [SQL](https://github.com/B9R9/sandox-SQL/blob/main/README.md) | TypeScript | Docker | Go | Deno | Flutter | Vue.js | Node.js | SDL2 | Linux | Bash | Postgres | Typesense | Redis | Neon | GitHub | Agile, Kanban | Peer-to-peer coding | Problem-solving | Efficiancy | Team player | Learning mindset
-***
+---
 
-### Interested in:
-Robot Framework, Java, React, Cloud
+## 🚀 What I’m working on
 
+### 🧠 Thoughts  
+*A privacy-first, local-only mobile app to capture and organize thoughts — distraction-free.*
 
-  
+A **POC & portfolio project** showcasing:
+- Mobile development with **Flutter**
+- **Local-first** and privacy-by-design architecture
+- Minimalist UX focused on speed and clarity
+- Secure local storage (encryption roadmap in progress)
 
+👉 No cloud · No accounts · No tracking  
+**Status:** Actively developed POC
 
+---
 
-<!--        My 42 profile card                                                                         What i am doing at the moment 
-                                                                                                       Wich language i am learning 
-          https://www.linkedin.com/in/baptiste-riffard-233b17103/?locale=en_US                                                                                             Hobbies and fun fact -->
+### 🪜 NextStep  
+*A modern job application tracking platform focused on clarity and real user needs.*
 
+A SaaS-style web app helping job seekers **structure, track, and compare**:
+- job applications (Kanban & list views)
+- companies and positions
+- CVs & cover letters (versioned per application)
 
-<!-- My stats git hub -->
+**What it demonstrates:**
+- Complex frontend architecture (**Vue 3 · Quasar · Pinia**)
+- Data-heavy UI with dashboards and advanced filtering
+- Full internationalization (EN / FR / FI / SV)
+- Authentication, protected routes, and session handling
+- Ongoing refactoring and technical debt management
 
+**Status:** Beta — actively refactoring
 
+---
 
-<!-- Because life is not coding this iss were I can share who I am -->
+### 🧩 HiveMind  
+*A coaching-first AI learning assistant for coding schools.*
 
+HiveMind is designed to **teach students how to think**, not how to copy-paste answers.
 
-<!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=briffard)](https://github.com/mohouyizme/1337-readme)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=B9R9&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=B9R9&show_icons=true&theme=radical&count_private=true)
--->
-<!--
-**B9R9/B9R9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Key ideas:
+- ❌ No direct solutions
+- ✅ Socratic questioning and guided reasoning
+- Explicit learning modes (Coach · Debug · Exam · Project)
+- Peer-reviewed student contributions
+- Controlled **RAG** pipeline with ethical constraints
 
-Here are some ideas to get you started:
+**What it demonstrates:**
+- Backend architecture & orchestration (**FastAPI**)
+- RAG systems and LLM integration (**Ollama – local**)
+- Product thinking in **edtech & responsible AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Status:** Active design & development
+
+---
+
+## 🛠 Tech & Tools
+
+**Languages**  
+C · C# · C++ · Python · SQL · TypeScript · Go
+
+**Frontend**  
+Vue.js · Quasar · Flutter · React.js
+
+**Backend / Infra**  
+FastAPI · Node.js · Docker · PostgreSQL · Redis · Typesense · Linux · Bash
+
+**Practices**  
+Agile · Kanban · Peer-to-peer coding · Problem solving · Learning mindset · Team player
+
+---
+
+## 🔗 Links
+- 💼 LinkedIn: https://www.linkedin.com/in/baptiste-riffard-233b17103
+- 🧑‍💻 HIVE / 42 projects: https://github.com/B9R9/42-HIVE
+
+---
+
+> I value pragmatic solutions, ethical tech, and building products that genuinely help people.
