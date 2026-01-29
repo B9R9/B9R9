@@ -15,7 +15,7 @@ Dad jokes, French cooking, and thoughtful product discussions included.
 
 ## 🚀 What I’m working on
 
-### 🧠 Thoughts  
+### 🧠 [Thoughts](  https://github.com/B9R9/Thoughts?tab=readme-ov-file#readme)
 *A privacy-first, local-only mobile app to capture and organize thoughts — distraction-free.*
 
 A **POC & portfolio project** showcasing:
@@ -29,7 +29,7 @@ A **POC & portfolio project** showcasing:
 
 ---
 
-### 🪜 NextStep  
+### 🪜 [NextStep](https://github.com/B9R9/NextStep-Docs?tab=readme-ov-file#readme)  
 *A modern job application tracking platform focused on clarity and real user needs.*
 
 A SaaS-style web app helping job seekers **structure, track, and compare**:
@@ -48,7 +48,7 @@ A SaaS-style web app helping job seekers **structure, track, and compare**:
 
 ---
 
-### 🧩 HiveMind  
+### 🧩 [HiveMind](https://github.com/B9R9/HiveMind?tab=readme-ov-file#readme)
 *A coaching-first AI learning assistant for coding schools.*
 
 HiveMind is designed to **teach students how to think**, not how to copy-paste answers.
